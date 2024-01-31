@@ -1,0 +1,16 @@
+# LINES
+
+lines.linewidth: 1
+lines.linestyle: -
+# TICKS
+
+ytick.left: False
+ytick.right: False
+xtick.top: False
+xtick.bottom: False
+
+# AXES
+axes.spines.left: True
+axes.spines.bottom: True
+axes.spines.top: False
+axes.spines.right: False
